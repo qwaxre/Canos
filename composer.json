@@ -1,0 +1,8 @@
+{
+	"name": "🥷 CECE CHECKER 🥷",
+	"description": "A Telegram Bot made in Pure PHP with Several Features!",
+	"keywords": ["heroku", "telegram-bot", "php", "bot", "QCC_CHECKER_BOT"],
+	"homepage": "https://github.com/qwaxre/AnyCheckerBot",
+	"type": "repo",
+	"license": "GPL"
+}
